@@ -22,7 +22,7 @@
        },
        "about":{
           "me":"",
-          "server":"2 x NUC i5, 16GB RAM, 250GB NVMe servers with monitoring and alerting, fallback internet and UPS",
+          "server":"2 x NUC i5, 16GB RAM, 250GB NVMe servers\n 1 x NUC celeron, 8GB RAM, 250GB SSD\n\nConfigured with full monitoring, alerting, fallback internet and Uninteruptable Power Supply",
           "company":"Lambda Honeypot"
        },
        "rss":""
@@ -45,6 +45,11 @@
           },
           "1":{
              "name":"Relay 1",
+             "type":"relay",
+             "key":""
+          },
+          "2":{
+             "name":"Relay 2",
              "type":"relay",
              "key":""
           }
