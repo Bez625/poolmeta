@@ -3,20 +3,22 @@
     "ticker":  "HONEY",
     "pool_id": "5be57ce6d1225697f4ad4090355f0a72d6e1e2446d1d768f36aa118c",
     "bech_32_id": "pool1t0jheek3yftf0a9dgzgr2hc2wttwrcjyd5whdrek4ggcc5famre",
-    "social": {
+    "contact": {
       "twitter": "https://twitter.com/honeypotlambda",
       "discord": "https://discord.gg/5R9CDh8dRz",
       "telegram": "https://t.me/lambda_honeypot"
-    }
+    },
+    "pitch": "We put our delegates first and give back via our bonus reward programme"
   },
   {
     "ticker":  "SAGAN",
     "pool_id": "387c1f515894d2511d1e791161e69882ddb427ab1701b7af719a8c9f",
     "bech_32_id": "pool18p7p752cjnf9z8g70ygkre5cstwmgfatzuqm0tm3n2xf739j8k8",
-    "social": {
+    "contact": {
       "twitter": "https://twitter.com/SaganPool",
       "discord": "",
       "telegram": "https://t.me/saganpool"
-    }
+    },
+    "pitch": "We love planets"
   }
 ]
